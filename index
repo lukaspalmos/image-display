@@ -1,1 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Image Gallery</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>My Image Gallery</h1>
+    <p>A collection of my favourite images.</p>
+  </header>
 
+  <main class="gallery">
+    <img src="images/photo1.jpg" alt="First image">
+    <img src="images/photo2.jpg" alt="Second image">
+    <img src="images/photo3.jpg" alt="Third image">
+  </main>
+
+  <footer>
+    <p>Made with HTML and GitHub Pages</p>
+  </footer>
+</body>
+</html>
